@@ -1,6 +1,6 @@
 # Complex Network Analysis with Instagram Data
 
-This project implements the creation and visualization of a Complex Network of hashtags (also refered here as tags) on Instagram posts about politics in Brazil. An article about it at Medium.com is available [here](XXX).
+This project implements the creation and visualization of a Complex Network of hashtags (also refered here as tags) on Instagram posts about politics in Brazil. An article about it at Medium.com is available [here](https://medium.com/@marcos.acj.me/creating-and-visualizing-a-complex-network-of-instagram-hashtags-based-on-posts-about-politics-2daf24f31088).
 
 The project works with some concepts about the process of data collection and construction, handling and visualization of Graphs.
 
